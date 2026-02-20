@@ -26,7 +26,7 @@ const ExperienceSection = () => (
           <div className="bg-card border border-border rounded-xl p-6">
             <div className="flex items-center gap-2 text-accent text-sm font-medium mb-2">
               <Calendar size={14} />
-              <span>February 2023</span>
+              <span>February 2023 — January 2024</span>
             </div>
             <div className="flex items-center gap-2 mb-2">
               <Briefcase size={18} className="text-primary" />
